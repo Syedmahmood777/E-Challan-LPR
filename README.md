@@ -1,27 +1,28 @@
 # E-Challan-License Plate Recognition
 
 ## Project Overview
-* Training a machine learning model to detect and recognize license plates
-* Creating an electronic challan interface that uses the trained models.
-* Use the license plate extracted from the model to fetch challan details.
-* Visualizing all the data about challans based on different details.
+* Training a machine learning model to detect and recognize license plates.  
+* Creating an electronic challan interface that uses the trained models.  
+* Use the license plate extracted from the model to fetch challan details.  
+* Visualizing all the data about challans based on different details.  
   
 ## Code and Resources Used
-**OS**: Windows_NT x64 10.0.19045
-**Microsoft Visual Studio**: 1.90.0 (user setup) 
-**Python**:3.12
-**Node.js**: 20.9.0
-**Express.js**: 4.19.2
-**React.jS**:18.2.0
-**Tremor**:3.16.3
-**Axios**:1.7.2
+**OS**: Windows_NT x64 10.0.19045  
+**Microsoft Visual Studio**: 1.90.0 (user setup)   
+**Python**:3.12  
+**Node.js**: 20.9.0  
+**Express.js**: 4.19.2  
+**React.jS**:18.2.0  
+**Tremor**:3.16.3  
+**Axios**:1.7.2  
 
  ## Machine Learning Model
-**Model Used**: YOLO V8 (Ultralytics)
-**Data Anottation Platform**: Roboflow
-**Dataset**: https://www.kaggle.com/datasets/saisirishan/indian-vehicle-dataset
+**Model Used**: YOLO V8 (Ultralytics)  
+**Data Anottation Platform**: Roboflow  
+**Dataset**: https://www.kaggle.com/datasets/saisirishan/indian-vehicle-dataset  
 
 ### Model Stats
+![alt text](https://github.comSyedmahmood777/E-Challan-LPR/blob/main/Stats/F1_curve.png?raw=true)
 
 
 ## Attributes
