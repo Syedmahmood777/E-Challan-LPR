@@ -22,7 +22,7 @@
 **Dataset**: https://www.kaggle.com/datasets/saisirishan/indian-vehicle-dataset  
 
 ### Model Stats
-![alt text](https://github.comSyedmahmood777/E-Challan-LPR/blob/main/Stats/F1_curve.png?raw=true)
+![alt text](https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/F1_curve.png?raw=true)
 
 
 ## Attributes
