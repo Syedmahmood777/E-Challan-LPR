@@ -72,15 +72,15 @@
 
 
 ## Useful References
-YOLO (You Only Look Once) Object Detection Model: <a href="https://www.ultralytics.com/">YOLO Official Website</a> 
-EasyOCR Library: <a href="https://www.ultralytics.com/">EasyOCR GitHub Repository  
-Google Cloud Functions Documentation:<a href="https://www.ultralytics.com/"> Google Cloud Functions  
-MERN Stack Guide: <a href="https://www.ultralytics.com/">MERN Stack Guide  
-LDRS Icons :<a href="https://www.ultralytics.com/">LDRS Github  
-MongoDB Setup, Fetching:<a href="https://www.ultralytics.com/"> Video Guide #1 ,<a href="https://www.ultralytics.com/"> Video Guide #2     
-React JS & API Guide :<a href="https://www.ultralytics.com/">Video Guide  
-Tremor Guide :<a href="https://www.ultralytics.com/"> Video Guide  
-Node JS & MongoDB Connect:<a href="https://www.ultralytics.com/"> Video Guide  
+YOLO (You Only Look Once) Object Detection Model: <a href="https://www.ultralytics.com/">YOLO Official Website</a>   
+EasyOCR Library: <a href="https://github.com/JaidedAI/EasyOCR">EasyOCR GitHub Repository  </a>  
+Google Cloud Functions Documentation:<a href="https://cloud.google.com/functions/docs"> Google Cloud Functions  </a>  
+MERN Stack Guide: <a href="https://www.mongodb.com/resources/languages/mern-stack-tutorial">MERN Stack Guide  </a>  
+LDRS Icons :<a href="https://github.com/GriffinJohnston/ldrs">LDRS Github  </a>  
+MongoDB Setup, Fetching:<a href="https://www.youtube.com/watch?v=SV0o0qOmKOQ"> Video Guide #1 ,<a href="https://www.youtube.com/watch?v=51JCCLjImnA"> Video Guide #2    </a>  
+React JS & API Guide :<a href="https://www.youtube.com/watch?v=je3FTTunyp4">Video Guide  </a>  
+Tremor Guide :<a href="https://www.youtube.com/watch?v=LAWjsToL7tQ"> Video Guide  </a>  
+Node JS & MongoDB Connect:<a href="https://www.youtube.com/watch?v=bhiEJW5poHU"> Video Guide  </a>  
 
 
 
