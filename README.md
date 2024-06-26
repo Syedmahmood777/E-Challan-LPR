@@ -9,12 +9,14 @@
 ## Code and Resources Used
 **OS**: Windows_NT x64 10.0.19045  
 **Microsoft Visual Studio**: 1.90.0 (user setup)   
-**Python**:3.12  
-**Node.js**: 20.9.0  
+**Python**: 3.12  
+**MongoDB**: 8.0
 **Express.js**: 4.19.2  
-**React.jS**:18.2.0  
-**Tremor**:3.16.3  
-**Axios**:1.7.2  
+**React.jS**: 18.2.0  
+**Node.js**: 20.9.0  
+**Tremor**: 3.16.3  
+**Axios**: 1.7.2  
+
 
  ## Machine Learning Model
 **Model Used**: YOLO V8 (Ultralytics)  
@@ -25,16 +27,22 @@
 **F1-Confidence Curve**  
 <img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/F1_curve.png?raw=true" width="600" height="400" />  
 **Precision Confidence Curve**  
-<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/P_curve.png?raw=true" width="500" height="300" />  
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/P_curve.png?raw=true" width="600" height="400" />  
+**Precission-Recall Curve**  
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/PR_curve.png?raw=true" width="600" height="400" />
 **Confusion Matrix**  
 <img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/confusion_matrix.png?raw=true" width="600" height="400" />  
-**F1-Confidence Curve**  
-<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/F1_curve.png?raw=true" width="600" height="400" />  
-**F1-Confidence Curve**  
-<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/F1_curve.png?raw=true" width="600" height="400" />
+**Multiple Results**  
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/results.png?raw=true" width="600" height="400" />  
+**Training Batch**  
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/train_batch0.png?raw=true" width="600" height="400" />  
+**Validation Batch**  
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/val_batch1_pred.png?raw=true" width="600" height="400" />    
+
+### More stats are available in the main/Stats  
 
 
-## Attributes
+## Useful References
 * Mental Health Icons: https://www.flaticon.com/free-icons/mental-health  
 * Leaves Icons: https://www.flaticon.com/free-icons/leaves  
 * Employer Meeeting Icons: https://www.freepik.com/free-vector/employer-meeting-job-applicant-pre-employment-assessment-employee-evaluation-assessment-form-report-performance-review-concept-illustration_11668479.htm#query=register&position=9&from_view=search&track=sph  
