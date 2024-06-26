@@ -16,11 +16,11 @@
 **Node.js**: 20.9.0  
 **Tremor**: 3.16.3  
 **Axios**: 1.7.2  
-**Opencv Python**: 4.9.0.80
-**Ultralytics**: 8.2.18
-**Google Cloud Storage**: 1.25.0
-**EasyOCR**: 1.7.1        
-**Pillow**: 10.3.0
+**Opencv Python**: 4.9.0.80  
+**Ultralytics**: 8.2.18  
+**Google Cloud Storage**: 1.25.0  
+**EasyOCR**: 1.7.1          
+**Pillow**: 10.3.0  
 
 ## Activity Diagrams
 
@@ -58,7 +58,7 @@
 
 ### Multiple Results
 
-<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/results.png?raw=true" width="600" height="400" />  
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/results.png?raw=true" height="400" />  
 
 ### Training Batch
 
