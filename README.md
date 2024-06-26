@@ -38,10 +38,10 @@
 
  ## Machine Learning Model
 **Model Used**: YOLO V8 (Ultralytics)  
-**GPU Used**: T4 GPU (Google Colab)
+**GPU Used**: T4 GPU (Google Colab)  
 **Data Anottation Platform**: Roboflow  
 **Dataset**: <a href="https://www.kaggle.com/datasets/saisirishan/indian-vehicle-dataset">Indian Vehicle Dataset</a>  
-**Deployment**: Google Cloud Function APIs
+**Deployment**: Google Cloud Function APIs  
 
 ### Model Stats
 ### F1-Confidence Curve
