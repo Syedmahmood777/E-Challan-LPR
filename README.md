@@ -73,14 +73,14 @@
 
 ## Useful References
 YOLO (You Only Look Once) Object Detection Model: <a href="https://www.ultralytics.com/">YOLO Official Website</a> 
-EasyOCR Library: EasyOCR GitHub Repository
-Google Cloud Functions Documentation: Google Cloud Functions
-MERN Stack Guide: MERN Stack Guide
-LDRS Icons :LDRS Github
-MongoDB Setup, Fetching: Video Guide #1 , Video Guide #2   
-React JS & API Guide :Video Guide
-Tremor Guide : Video Guide
-Node JS & MongoDB Connect: Video Guide
+EasyOCR Library: <a href="https://www.ultralytics.com/">EasyOCR GitHub Repository  
+Google Cloud Functions Documentation:<a href="https://www.ultralytics.com/"> Google Cloud Functions  
+MERN Stack Guide: <a href="https://www.ultralytics.com/">MERN Stack Guide  
+LDRS Icons :<a href="https://www.ultralytics.com/">LDRS Github  
+MongoDB Setup, Fetching:<a href="https://www.ultralytics.com/"> Video Guide #1 ,<a href="https://www.ultralytics.com/"> Video Guide #2     
+React JS & API Guide :<a href="https://www.ultralytics.com/">Video Guide  
+Tremor Guide :<a href="https://www.ultralytics.com/"> Video Guide  
+Node JS & MongoDB Connect:<a href="https://www.ultralytics.com/"> Video Guide  
 
 
 
