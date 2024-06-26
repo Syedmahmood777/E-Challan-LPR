@@ -16,12 +16,19 @@
 **Node.js**: 20.9.0  
 **Tremor**: 3.16.3  
 **Axios**: 1.7.2  
+**Opencv Python**: 4.9.0.80
+**Ultralytics**: 8.2.18
+**Google Cloud Storage**: 1.25.0
+**EasyOCR**: 1.7.1        
+**Pillow: 10.3.0
 
 
  ## Machine Learning Model
 **Model Used**: YOLO V8 (Ultralytics)  
+**GPU Used**: T4 GPU (Google Colab)
 **Data Anottation Platform**: Roboflow  
 **Dataset**: https://www.kaggle.com/datasets/saisirishan/indian-vehicle-dataset  
+**Deployment**: Google Cloud Function APIs
 
 ### Model Stats
 ### F1-Confidence Curve
@@ -52,19 +59,16 @@
 
 
 ## Useful References
-* Mental Health Icons: https://www.flaticon.com/free-icons/mental-health  
-* Leaves Icons: https://www.flaticon.com/free-icons/leaves  
-* Employer Meeeting Icons: https://www.freepik.com/free-vector/employer-meeting-job-applicant-pre-employment-assessment-employee-evaluation-assessment-form-report-performance-review-concept-illustration_11668479.htm#query=register&position=9&from_view=search&track=sph  
-* Handrawn Vector Leaves: https://www.freepik.com/free-vector/hand-drawn-colorful-leaves_18895221.htm#query=leaf%20png&position=14&from_view=search&track=sph  
-* Therapist Icons: https://www.flaticon.com/free-icons/therapist  
-* Patient Icons: https://www.flaticon.com/free-icons/patient  
-* ColorByte Designs: https://freeicons.io/profile/287517  
-* User Profile Icons: https://freeicons.io/profile/96920  
-* Mental Health Awareness Concept: https://www.freepik.com/free-vector/mental-health-awareness-concept_7851315.htm#query=mental%20health&position=3&from_view=search&track=sph  
-* Rawpixel Image: https://www.freepik.com/free-vector/abstract-background-illustration-set_4435974.htm#query=app%20background&position=1&from_view=keyword  
-* People Connecting Jigsaw Puzzle Pieces Image: https://www.freepik.com/free-vector/people-connecting-jigsaw-pieces-head-together_3425145.htm#query=mental%20health&position=28&from_view=keyword  
-* Youtubbe Logo Icon: https://iconscout.com/icons/youtube  
-* Pixel Icons: https://iconscout.com/contributors/pixel-icons  
+YOLO (You Only Look Once) Object Detection Model: <a href="https://www.ultralytics.com/">YOLO Official Website</a> 
+EasyOCR Library: EasyOCR GitHub Repository
+Google Cloud Functions Documentation: Google Cloud Functions
+MERN Stack Guide: MERN Stack Guide
+LDRS Icons :LDRS Github
+MongoDB Setup, Fetching: Video Guide #1 , Video Guide #2   
+React JS & API Guide :Video Guide
+Tremor Guide : Video Guide
+Node JS & MongoDB Connect: Video Guide
+
 
 
 
