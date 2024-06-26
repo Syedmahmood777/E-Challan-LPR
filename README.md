@@ -25,14 +25,14 @@
 ## Activity Diagrams
 
 ### HomePage
-<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Activity/home1.png?raw=true" width="600" height="400" />
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Activity/home1.png?raw=true"  />
 
 ### Post-Image Upload & Fetch
-<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/retrieval.png?raw=true" width="600" height="400" />
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Activity/retrieval.png?raw=true"  />
 
 ### Visualization
-<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/graphs.PNG?raw=true" width="600" height="400" />
-<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/stats.PNG?raw=true" width="600" height="400" />
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Activity/graphs.PNG?raw=true"  />
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Activity/stats.PNG?raw=true" />
 
 
 
