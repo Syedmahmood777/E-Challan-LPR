@@ -35,12 +35,15 @@
 
 ### Confusion Matrix
 <img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/confusion_matrix.png?raw=true" width="600" height="400" />  
+
 ### Multiple Results
 
 <img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/results.png?raw=true" width="600" height="400" />  
+
 ### Training Batch
 
 <img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/train_batch0.jpg?raw=true" width="600" height="400" />  
+
 ### Validation Batch 
 
 <img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/val_batch1_pred.jpg?raw=true" width="600" height="400" />    
