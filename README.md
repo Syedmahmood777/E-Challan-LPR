@@ -25,8 +25,7 @@
 
 ### Model Stats
 ### F1-Confidence Curve
-<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/F1_curve.png?raw=true" width="600" height="400" />  
-  
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/F1_curve.png?raw=true" width="600" height="400" />    
 ### Precision Confidence Curve
 <img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/P_curve.png?raw=true" width="600" height="400" />  
 ### Precission-Recall Curve 
