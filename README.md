@@ -20,7 +20,7 @@
 **Ultralytics**: 8.2.18
 **Google Cloud Storage**: 1.25.0
 **EasyOCR**: 1.7.1        
-**Pillow: 10.3.0
+**Pillow**: 10.3.0
 
 
  ## Machine Learning Model
