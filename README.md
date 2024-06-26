@@ -29,15 +29,15 @@
 **Precision Confidence Curve**  
 <img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/P_curve.png?raw=true" width="600" height="400" />  
 **Precission-Recall Curve**  
-<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/PR_curve.png?raw=true" width="600" height="400" />
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/PR_curve.png?raw=true" width="600" height="400" />  
 **Confusion Matrix**  
 <img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/confusion_matrix.png?raw=true" width="600" height="400" />  
 **Multiple Results**  
 <img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/results.png?raw=true" width="600" height="400" />  
 **Training Batch**  
-<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/train_batch0.png?raw=true" width="600" height="400" />  
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/train_batch0.jpg?raw=true" width="600" height="400" />  
 **Validation Batch**  
-<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/val_batch1_pred.png?raw=true" width="600" height="400" />    
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/val_batch1_pred.jpg?raw=true" width="600" height="400" />    
 
 ### More stats are available in the main/Stats  
 
