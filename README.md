@@ -22,6 +22,19 @@
 **EasyOCR**: 1.7.1        
 **Pillow**: 10.3.0
 
+## Activity Diagrams
+
+### HomePage
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Activity/home1.png?raw=true" width="600" height="400" />
+
+### Post-Image Upload & Fetch
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/retrieval.png?raw=true" width="600" height="400" />
+
+### Visualization
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/graphs.PNG?raw=true" width="600" height="400" />
+<img src="https://github.com/Syedmahmood777/E-Challan-LPR/blob/main/Stats/stats.PNG?raw=true" width="600" height="400" />
+
+
 
  ## Machine Learning Model
 **Model Used**: YOLO V8 (Ultralytics)  
