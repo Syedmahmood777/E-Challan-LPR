@@ -12,7 +12,7 @@
 **Python**: 3.12  
 **MongoDB**: 8.0
 **Express.js**: 4.19.2  
-**React.jS**: 18.2.0  
+**React.js**: 18.2.0  
 **Node.js**: 20.9.0  
 **Tremor**: 3.16.3  
 **Axios**: 1.7.2  
